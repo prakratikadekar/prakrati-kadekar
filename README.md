@@ -1,4 +1,5 @@
 Product designer, recent grad @ Rutgers
+
 Portfolio: https://prakratikadekar.framer.website/
 
 <!---
